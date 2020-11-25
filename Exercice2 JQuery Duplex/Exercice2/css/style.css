@@ -1,0 +1,24 @@
+#div1{
+    width: 250px;
+    padding: 5px;
+    text-align: center;
+    background-color: #469ab4;
+    border: solid 1px #000000;
+}
+#div2{
+    width: 250px;
+    padding: 5px;
+    text-align: center;
+    background-color: #78d687;
+    border: solid 1px #e01616;
+}
+#div3{
+    width: 250px;
+    padding: 5px;
+    text-align: center;
+    background-color: #e637ba;
+    border: solid 1px #1a1b6d;
+}
+.red{
+    background-color: red;
+}
